@@ -1,0 +1,28 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "HelloCordova"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "HelloCordova"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "HelloCordova"
+        },
+        "cordova-plugin-urlhandler": {
+            "URL_SCHEME": "dailydocket",
+            "PACKAGE_NAME": "HelloCordova"
+        },
+        "sk.kcorp.cordova.ios-security": {
+            "PACKAGE_NAME": "HelloCordova"
+        }
+    },
+    "dependent_plugins": {}
+}
